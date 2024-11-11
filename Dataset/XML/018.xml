@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>4a0821b7-3689-4b0e-9397-389254ea9a32_1060_1060_jpg.rf.6ff0fe2b073d32f76e568073a527ec53.jpg</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>
